@@ -1,0 +1,16 @@
+- The "touch" command is used to create new files
+- "cat" command is used to display contents of a file
+- "mkdir" command is used to create directories/folders.
+- "cd" command can be used to move to the specified directory
+- "/" represents the root directory
+- "pwd" is used to print the directory we are currently in. It stands for "Print Working Directory"
+- "ls" command can be used to see the list of files and folders in the current working directory
+- if we want to move to the parent directory we can use the command "cd .."
+- if we execute just "cd" without specifiying a directory, we can move to the home directory
+- home directory is represented by "~" symbol
+- we can move a file to a directory using "mv" command
+- we can also move a directory to a directory using the same command
+- we can also move a file with the mv command like this: mv old-file-name new-file-name
+- we can copy files by using "cp" command (copy directories by adding -r to "cp" command)
+- we can use the "rm" command to remove files (add -r to remove directories and -f to forcefully remove a directory) 
+- we can go through the command history by using up arrow key. This can be used if we want to execute a command that we have already executed before

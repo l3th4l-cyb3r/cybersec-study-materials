@@ -1,0 +1,5 @@
+- u = Undo the last change from normal mode 
+- ctrl + r = Redo 
+- :set paste = turn off auto-indenting (Helpful with Python, JSON, XML, etc.)
+- :set nopaste = turn on auto-indenting
+- . = repeat last change from normal mode

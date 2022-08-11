@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "971a03c1567e4f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "134732f57dc47b45",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-2/1. the modern computer/2. programs and hardware.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9fac75d638e897e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f2f8594f499bb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d7a9a562936b5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2e0134eceefed98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfacefd19800aeb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b99251ea4f8b569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9bbd38d3da29566",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-2/1. the modern computer/2. programs and hardware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.71209716796875,
+    "collapsed": true
+  },
+  "active": "134732f57dc47b45",
+  "lastOpenFiles": [
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-1/3.computer-architecture-layer/2.computer architecture overview.md",
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-1/2.digital-logic/1.computer-language.md",
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-1/1.history-computing/2.path-to-modern-computers.md",
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-1/1.history-computing/1.abacus-to-analytical_engine.md",
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-2/1. the modern computer/2. programs and hardware.md",
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-1/2.digital-logic/3. Binary.md",
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-2/1. the modern computer/1. intro computer hardware.md",
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-1/2.digital-logic/Supplement-Logic Gates.md",
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-1/2.digital-logic/XOR-truth-table.png",
+    "Courses/Google-IT-Support-Professional/technical-support-fundamentals/week-1/3.computer-architecture-layer/1.abstraction.md"
+  ]
+}
